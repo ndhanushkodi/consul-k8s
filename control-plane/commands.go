@@ -1,4 +1,4 @@
-package old_k8s
+package main
 
 import (
 	"os"
